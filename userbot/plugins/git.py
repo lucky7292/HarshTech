@@ -26,9 +26,9 @@ async def _(event):
 
         animation_chars = [
 
-            "https://github.com/indianbhaiya/IndianBot",
+            "https://github.com/HarshTech26/HarshTech/",
 
-            "https://github.com/indianbhaiya/IndianBot"
+            "https://github.com/HarshTech26/HarshTech/"
         ]
 
         for i in animation_ttl:
