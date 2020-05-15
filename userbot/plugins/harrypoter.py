@@ -2,7 +2,7 @@
 Pulls Up A Random Chant From Harry Potter Series...
 Syntax: .hp
     orginal author : AlenPaulVarghese(@STARKTM1)
-    custom editing : @pureindialover
+    custom editing : @anon_cracker
 """
 from telethon import events
 import asyncio
