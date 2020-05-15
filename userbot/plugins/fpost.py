@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 """ Command: .fpost word
 
-credit: @pureindialover"""
+credit: @anon_cracker"""
 
 import string
 
